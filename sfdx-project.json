@@ -5,5 +5,8 @@
     }
   ],
   "namespace": "",
-  "sourceApiVersion": "39.0"
+  "edition": "Enterprise",
+  "sourceApiVersion": "47.0",
+  "signupTargetLoginUrl": "https://login.stmpa.stm.salesforce.com",
+  "sfdcLoginUrl" : "https://login.stmpa.stm.salesforce.com"
 }
